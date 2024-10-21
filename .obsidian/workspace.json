@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Good Sokoban-Likes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Good Sokoban-Likes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Good Sokoban-Likes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Good Sokoban-Likes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Good Sokoban-Likes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Good Sokoban-Likes"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Good Sokoban-Likes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Good Sokoban-Likes"
             }
           },
           {
@@ -173,8 +173,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59328974490003fb",
+  "active": "9284d91ccb03e9b8",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Good Sokoban-Likes.md"
   ]
 }
